@@ -1,0 +1,1507 @@
+2026-09-16 17:04:34,166 [INFO] Activator:177 - 
+
+
+2026-09-16 17:04:34,166 [INFO] Activator:178 - !SESSION log4j initialized
+2026-09-16 17:05:22,972 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:22,972 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:23,918 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:23,918 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:24,933 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:24,935 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:25,925 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:25,925 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:26,932 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:26,934 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:27,922 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:27,922 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:28,929 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:28,929 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:29,915 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:29,915 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:30,933 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:30,933 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:31,944 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:31,944 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:32,928 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:32,928 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:33,921 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:33,921 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:34,927 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:34,927 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:35,930 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:35,932 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:36,921 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:36,923 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:37,922 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:37,926 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:41,841 [INFO] Activator:177 - 
+
+
+2026-09-16 17:05:41,857 [INFO] Activator:178 - !SESSION log4j initialized
+2026-09-16 17:05:49,824 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:49,824 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:50,795 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:50,799 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:51,770 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:51,770 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:52,788 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:52,790 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:53,790 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:53,790 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:54,802 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:54,803 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:55,796 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:55,796 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:56,762 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:56,778 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:57,777 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:57,777 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:58,765 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:58,779 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:05:59,780 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:05:59,782 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:00,779 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:00,781 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:01,770 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:01,784 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:02,774 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:02,774 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:03,783 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:03,783 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:04,791 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:04,791 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:05,777 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:05,777 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:06,771 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:06,771 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:07,775 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:07,775 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:08,780 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:08,780 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:09,782 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:09,782 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:10,791 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:10,791 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:11,786 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:11,786 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:12,759 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:12,774 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:13,782 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:13,782 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:14,790 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:14,790 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:15,825 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:15,825 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:19,602 [INFO] Activator:177 - 
+
+
+2026-09-16 17:06:19,616 [INFO] Activator:178 - !SESSION log4j initialized
+2026-09-16 17:06:29,457 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:29,457 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:30,401 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:30,401 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:31,401 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:31,401 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:32,406 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:32,406 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:33,418 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:33,418 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:34,433 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:34,435 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:35,403 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:35,403 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:36,403 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:36,403 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:37,408 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:37,408 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:38,390 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:38,390 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:06:39,426 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:06:39,426 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:11,727 [INFO] Activator:177 - 
+
+
+2026-09-16 17:07:11,730 [INFO] Activator:178 - !SESSION log4j initialized
+2026-09-16 17:07:21,338 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:21,338 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:22,301 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:22,301 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:23,039 [INFO] McuFinderGlobals:39 - Set McuFinder mode to 2 (CubeIDE integrated)
+2026-09-16 17:07:23,245 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111
+2026-09-16 17:07:23,261 [INFO] DbMcusXml:74 - Set database path to: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/mcu/
+2026-09-16 17:07:23,263 [INFO] DbBoardsPdsc:56 - Set plugin database path to: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/plugins/boardmanager/
+2026-09-16 17:07:23,263 [INFO] DbMcus:258 - Set plugin images path to: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/plugins/mcufinder/images/
+2026-09-16 17:07:23,263 [INFO] DbBoards:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/plugins/mcufinder/images/
+2026-09-16 17:07:23,266 [INFO] DbExamples:333 - Set plugin images path to: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/plugins/mcufinder/images/
+2026-09-16 17:07:23,266 [INFO] DbMcusAds:119 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,266 [INFO] DbMcusDocs:110 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,266 [INFO] DbMcusJson:64 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,266 [INFO] DbBoardsDocs:110 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,266 [INFO] DbBoardsJson:57 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,277 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/cs/
+2026-09-16 17:07:23,277 [INFO] DbExamplesSqlite:767 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,292 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:23,292 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:23,355 [INFO] RulesReader:57 - Compatibility file has been processed (242 Rules)
+2026-09-16 17:07:23,405 [INFO] DbMcusXml:74 - Set database path to: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/mcu/
+2026-09-16 17:07:23,405 [INFO] DbBoardsPdsc:56 - Set plugin database path to: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/plugins/boardmanager/
+2026-09-16 17:07:23,405 [INFO] DbMcus:258 - Set plugin images path to: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/plugins/mcufinder/images/
+2026-09-16 17:07:23,405 [INFO] DbBoards:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/plugins/mcufinder/images/
+2026-09-16 17:07:23,405 [INFO] DbExamples:333 - Set plugin images path to: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/plugins/mcufinder/images/
+2026-09-16 17:07:23,405 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\Lenovo\.stmcufinder\plugins\mcufinder
+2026-09-16 17:07:23,405 [INFO] DbMcusAds:119 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,421 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\Lenovo\.stmcufinder\plugins\mcufinder
+2026-09-16 17:07:23,421 [INFO] DbMcusDocs:110 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,421 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\Lenovo\.stmcufinder\plugins\mcufinder
+2026-09-16 17:07:23,421 [INFO] DbMcusJson:64 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,421 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\Lenovo\.stmcufinder\plugins\mcufinder
+2026-09-16 17:07:23,421 [INFO] DbBoardsDocs:110 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,421 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\Lenovo\.stmcufinder\plugins\mcufinder
+2026-09-16 17:07:23,421 [INFO] DbBoardsJson:57 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,421 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\Lenovo\.stmcufinder\plugins\mcufinder
+2026-09-16 17:07:23,421 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\Lenovo\.stmcufinder\plugins\mcufinder
+2026-09-16 17:07:23,421 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/cs/
+2026-09-16 17:07:23,421 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\Lenovo\.stmcufinder\plugins\mcufinder
+2026-09-16 17:07:23,421 [INFO] DbExamplesSqlite:767 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,467 [INFO] MainPanel:214 - HeapMemory: 268435456
+2026-09-16 17:07:23,512 [INFO] DbMcusXml:74 - Set database path to: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/mcu/
+2026-09-16 17:07:23,512 [INFO] DbBoardsPdsc:56 - Set plugin database path to: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/plugins/boardmanager/
+2026-09-16 17:07:23,512 [INFO] DbMcus:258 - Set plugin images path to: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/plugins/mcufinder/images/
+2026-09-16 17:07:23,512 [INFO] DbBoards:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/plugins/mcufinder/images/
+2026-09-16 17:07:23,512 [INFO] DbExamples:333 - Set plugin images path to: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/plugins/mcufinder/images/
+2026-09-16 17:07:23,512 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\Lenovo\.stmcufinder\plugins\mcufinder
+2026-09-16 17:07:23,512 [INFO] DbMcusAds:119 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,512 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\Lenovo\.stmcufinder\plugins\mcufinder
+2026-09-16 17:07:23,512 [INFO] DbMcusDocs:110 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,512 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\Lenovo\.stmcufinder\plugins\mcufinder
+2026-09-16 17:07:23,512 [INFO] DbMcusJson:64 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,512 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\Lenovo\.stmcufinder\plugins\mcufinder
+2026-09-16 17:07:23,512 [INFO] DbBoardsDocs:110 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,512 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\Lenovo\.stmcufinder\plugins\mcufinder
+2026-09-16 17:07:23,512 [INFO] DbBoardsJson:57 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,512 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\Lenovo\.stmcufinder\plugins\mcufinder
+2026-09-16 17:07:23,512 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\Lenovo\.stmcufinder\plugins\mcufinder
+2026-09-16 17:07:23,512 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/cs/
+2026-09-16 17:07:23,512 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\Lenovo\.stmcufinder\plugins\mcufinder
+2026-09-16 17:07:23,512 [INFO] DbExamplesSqlite:767 - Set database path to: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2026-09-16 17:07:23,517 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111
+2026-09-16 17:07:23,517 [INFO] PluginManage:188 - Search for loadable plugins [exclusion list=, ]
+2026-09-16 17:07:23,517 [INFO] PluginManage:302 - Check plugin analytics
+2026-09-16 17:07:23,651 [INFO] AnalyticsPlugin:257 - Accepted Software Licenses: 
+2026-09-16 17:07:23,651 [INFO] AnalyticsPlugin:259 - Accepted CMSIS Pack Licenses: 
+2026-09-16 17:07:23,659 [INFO] AnalyticsPlugin:261 - Accepted Firmware Licenses: 
+2026-09-16 17:07:23,659 [INFO] PluginManage:352 - Loaded plugin analytics (category:tool,tabindex:-1)
+2026-09-16 17:07:23,659 [INFO] PluginManage:302 - Check plugin clock
+2026-09-16 17:07:23,667 [INFO] PluginManage:352 - Loaded plugin clock (category:base,tabindex:2)
+2026-09-16 17:07:23,667 [INFO] PluginManage:302 - Check plugin ddr
+2026-09-16 17:07:23,667 [INFO] PluginManage:352 - Loaded plugin ddr (category:tool,tabindex:6)
+2026-09-16 17:07:23,667 [INFO] PluginManage:302 - Check plugin filemanager
+2026-09-16 17:07:23,754 [INFO] PluginManage:352 - Loaded plugin filemanager (category:base,tabindex:10)
+2026-09-16 17:07:23,754 [INFO] PluginManage:302 - Check plugin ipmanager
+2026-09-16 17:07:23,759 [INFO] PluginManage:352 - Loaded plugin ipmanager (category:base,tabindex:5)
+2026-09-16 17:07:23,759 [INFO] PluginManage:302 - Check plugin pinoutandconfiguration
+2026-09-16 17:07:23,767 [INFO] PluginManage:352 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2026-09-16 17:07:23,767 [INFO] PluginManage:302 - Check plugin pinoutconfig
+2026-09-16 17:07:23,785 [INFO] PluginManage:352 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2026-09-16 17:07:23,785 [INFO] PluginManage:302 - Check plugin power
+2026-09-16 17:07:23,785 [INFO] PluginManage:352 - Loaded plugin power (category:power,tabindex:4)
+2026-09-16 17:07:23,785 [INFO] PluginManage:302 - Check plugin projectmanager
+2026-09-16 17:07:23,806 [INFO] PluginManage:352 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2026-09-16 17:07:23,806 [INFO] PluginManage:302 - Check plugin thirdparty
+2026-09-16 17:07:23,880 [WARN] IntegrityCheckThread:78 - waiting for thirdparty lock release [integrity check]
+2026-09-16 17:07:23,897 [INFO] PluginManage:352 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2026-09-16 17:07:23,897 [INFO] PluginManage:302 - Check plugin tools
+2026-09-16 17:07:23,897 [INFO] IntegrityCheckThread:80 - entering critical section [integrity check]
+2026-09-16 17:07:23,897 [INFO] ThirdPartyUpdaterWithRetryManager:66 - Updater plugin not ready yet. [1/15]
+2026-09-16 17:07:23,897 [INFO] PluginManage:352 - Loaded plugin tools (category:base,tabindex:7)
+2026-09-16 17:07:23,897 [INFO] PluginManage:302 - Check plugin tutovideos
+2026-09-16 17:07:24,040 [INFO] PluginManage:352 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2026-09-16 17:07:24,040 [INFO] PluginManage:302 - Check plugin updater
+2026-09-16 17:07:24,040 [INFO] PluginManage:352 - Loaded plugin updater (category:base,tabindex:12)
+2026-09-16 17:07:24,040 [INFO] PluginManage:275 - PluginManage : Loaded plugins [13]
+2026-09-16 17:07:24,182 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2026-09-16 17:07:24,262 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,262 [INFO] PluginManager:213 - loadIPPluginJar : add adc
+2026-09-16 17:07:24,262 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,262 [INFO] PluginManager:213 - loadIPPluginJar : add aes
+2026-09-16 17:07:24,265 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,265 [INFO] PluginManager:213 - loadIPPluginJar : add can
+2026-09-16 17:07:24,267 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,267 [INFO] PluginManager:213 - loadIPPluginJar : add comp
+2026-09-16 17:07:24,268 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,268 [INFO] PluginManager:213 - loadIPPluginJar : add cryp
+2026-09-16 17:07:24,268 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,268 [INFO] PluginManager:213 - loadIPPluginJar : add dfsdm
+2026-09-16 17:07:24,268 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,268 [INFO] PluginManager:213 - loadIPPluginJar : add dma
+2026-09-16 17:07:24,277 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,277 [INFO] PluginManager:213 - loadIPPluginJar : add dma3
+2026-09-16 17:07:24,277 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,277 [INFO] PluginManager:213 - loadIPPluginJar : add fatfs
+2026-09-16 17:07:24,277 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,277 [INFO] PluginManager:213 - loadIPPluginJar : add fmc
+2026-09-16 17:07:24,277 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,277 [INFO] PluginManager:213 - loadIPPluginJar : add freertos
+2026-09-16 17:07:24,277 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,277 [INFO] PluginManager:213 - loadIPPluginJar : add genericplugin
+2026-09-16 17:07:24,277 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,277 [INFO] PluginManager:213 - loadIPPluginJar : add gfxmmu
+2026-09-16 17:07:24,293 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:24,293 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:24,296 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,296 [INFO] PluginManager:213 - loadIPPluginJar : add gic
+2026-09-16 17:07:24,300 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,300 [INFO] PluginManager:213 - loadIPPluginJar : add gpio
+2026-09-16 17:07:24,302 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,302 [INFO] PluginManager:213 - loadIPPluginJar : add gtzc
+2026-09-16 17:07:24,302 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,302 [INFO] PluginManager:213 - loadIPPluginJar : add hash
+2026-09-16 17:07:24,302 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,302 [INFO] PluginManager:213 - loadIPPluginJar : add i2c
+2026-09-16 17:07:24,302 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,302 [INFO] PluginManager:213 - loadIPPluginJar : add i2s
+2026-09-16 17:07:24,309 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,309 [INFO] PluginManager:213 - loadIPPluginJar : add ipddr
+2026-09-16 17:07:24,309 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,309 [INFO] PluginManager:213 - loadIPPluginJar : add linkedlist
+2026-09-16 17:07:24,309 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,309 [INFO] PluginManager:213 - loadIPPluginJar : add lorawan
+2026-09-16 17:07:24,309 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,309 [INFO] PluginManager:213 - loadIPPluginJar : add ltdc
+2026-09-16 17:07:24,309 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,309 [INFO] PluginManager:213 - loadIPPluginJar : add mdma
+2026-09-16 17:07:24,309 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,309 [INFO] PluginManager:213 - loadIPPluginJar : add nvic
+2026-09-16 17:07:24,325 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,325 [INFO] PluginManager:213 - loadIPPluginJar : add opamp
+2026-09-16 17:07:24,325 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,325 [INFO] PluginManager:213 - loadIPPluginJar : add openamp
+2026-09-16 17:07:24,325 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,325 [INFO] PluginManager:213 - loadIPPluginJar : add pdm2pcm
+2026-09-16 17:07:24,325 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,325 [INFO] PluginManager:213 - loadIPPluginJar : add plateformsettings
+2026-09-16 17:07:24,325 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,325 [INFO] PluginManager:213 - loadIPPluginJar : add quadspi
+2026-09-16 17:07:24,325 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,325 [INFO] PluginManager:213 - loadIPPluginJar : add resmgrutility
+2026-09-16 17:07:24,341 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,341 [INFO] PluginManager:213 - loadIPPluginJar : add sai
+2026-09-16 17:07:24,341 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,341 [INFO] PluginManager:213 - loadIPPluginJar : add spi
+2026-09-16 17:07:24,341 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,341 [INFO] PluginManager:213 - loadIPPluginJar : add stm32_wpan
+2026-09-16 17:07:24,341 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,341 [INFO] PluginManager:213 - loadIPPluginJar : add tim
+2026-09-16 17:07:24,341 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,341 [INFO] PluginManager:213 - loadIPPluginJar : add touchsensing
+2026-09-16 17:07:24,341 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,341 [INFO] PluginManager:213 - loadIPPluginJar : add tracer_emb
+2026-09-16 17:07:24,341 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,341 [INFO] PluginManager:213 - loadIPPluginJar : add ts
+2026-09-16 17:07:24,341 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,341 [INFO] PluginManager:213 - loadIPPluginJar : add tsc
+2026-09-16 17:07:24,341 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,341 [INFO] PluginManager:213 - loadIPPluginJar : add ucpd
+2026-09-16 17:07:24,357 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,357 [INFO] PluginManager:213 - loadIPPluginJar : add usart
+2026-09-16 17:07:24,357 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:07:24,357 [INFO] PluginManager:213 - loadIPPluginJar : add usbx
+2026-09-16 17:07:24,576 [FATAL] Updater:294 - Updater called before beeing initialized
+2026-09-16 17:07:24,655 [FATAL] Updater:294 - Updater called before beeing initialized
+2026-09-16 17:07:24,655 [INFO] DbMcusAds:47 - JSON generation date=Wed Jul 15 16:44:54 ICT 2026 (1784108694001)
+2026-09-16 17:07:24,655 [FATAL] Updater:294 - Updater called before beeing initialized
+2026-09-16 17:07:24,687 [WARN] DetailPanel:314 - Failed to get advertising image, set to default
+2026-09-16 17:07:24,769 [FATAL] Updater:294 - Updater called before beeing initialized
+2026-09-16 17:07:24,769 [FATAL] Updater:294 - Updater called before beeing initialized
+2026-09-16 17:07:24,769 [FATAL] Updater:294 - Updater called before beeing initialized
+2026-09-16 17:07:24,769 [WARN] DetailPanel:314 - Failed to get advertising image, set to default
+2026-09-16 17:07:24,769 [FATAL] Updater:294 - Updater called before beeing initialized
+2026-09-16 17:07:24,802 [ERROR] Updater:1075 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2026-09-16 17:07:24,802 [INFO] Updater:1012 - Updater Version found : 6.3.0
+2026-09-16 17:07:24,815 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111
+2026-09-16 17:07:25,288 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:25,288 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:26,073 [INFO] MainUpdater:2671 - connection check result : 10
+2026-09-16 17:07:26,073 [INFO] MainUpdater:265 - Updater Check For Update Now.
+2026-09-16 17:07:26,073 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2026-09-16 17:07:26,241 [INFO] CheckServerUpdateThread:112 - End of CheckServer Thread
+2026-09-16 17:07:26,288 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:26,304 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:26,304 [INFO] MainUpdater:2671 - connection check result : 10
+2026-09-16 17:07:26,304 [INFO] McuFinderGlobals:52 - Set McuFinderConnectedMode to true
+2026-09-16 17:07:26,409 [INFO] ServerAccessManage:362 - Download File mcusAds.json._tmp_
+2026-09-16 17:07:26,528 [INFO] LoadUrlFilesThread:145 - End of LoadUrlFiles Thread
+2026-09-16 17:07:26,909 [WARN] MainUpdater:1122 - Updater busy. Cannot search thirdparties
+2026-09-16 17:07:26,909 [INFO] ThirdPartyUpdaterWithRetryManager:92 - Updater plugin is busy. [1/15]
+2026-09-16 17:07:27,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:27,304 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:28,298 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:28,298 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:29,288 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:29,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:29,910 [WARN] MainUpdater:1122 - Updater busy. Cannot search thirdparties
+2026-09-16 17:07:29,910 [INFO] ThirdPartyUpdaterWithRetryManager:92 - Updater plugin is busy. [2/15]
+2026-09-16 17:07:30,291 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:30,291 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:31,274 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:31,274 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:32,290 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:32,290 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:32,912 [WARN] MainUpdater:1122 - Updater busy. Cannot search thirdparties
+2026-09-16 17:07:32,912 [INFO] ThirdPartyUpdaterWithRetryManager:92 - Updater plugin is busy. [3/15]
+2026-09-16 17:07:33,287 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:33,287 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:34,301 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:34,301 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:35,312 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:35,312 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:35,912 [WARN] MainUpdater:1122 - Updater busy. Cannot search thirdparties
+2026-09-16 17:07:35,914 [INFO] ThirdPartyUpdaterWithRetryManager:92 - Updater plugin is busy. [4/15]
+2026-09-16 17:07:36,290 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:36,290 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:37,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:37,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:38,283 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:38,299 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:38,929 [WARN] MainUpdater:1122 - Updater busy. Cannot search thirdparties
+2026-09-16 17:07:38,929 [INFO] ThirdPartyUpdaterWithRetryManager:92 - Updater plugin is busy. [5/15]
+2026-09-16 17:07:39,281 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:39,281 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:40,299 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:40,299 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:41,300 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:41,300 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:41,937 [WARN] MainUpdater:1122 - Updater busy. Cannot search thirdparties
+2026-09-16 17:07:41,937 [INFO] ThirdPartyUpdaterWithRetryManager:92 - Updater plugin is busy. [6/15]
+2026-09-16 17:07:42,312 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:42,312 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:43,299 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:43,299 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:44,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:44,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:44,948 [WARN] MainUpdater:1122 - Updater busy. Cannot search thirdparties
+2026-09-16 17:07:44,948 [INFO] ThirdPartyUpdaterWithRetryManager:92 - Updater plugin is busy. [7/15]
+2026-09-16 17:07:45,360 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:45,360 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:46,300 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:46,300 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:47,070 [ERROR] ServerAccessManage:1016 - HTTP unexpected response (522) for https://stmcufinder.com/API/getFiles.php?
+2026-09-16 17:07:47,074 [ERROR] ServerAccessManage:531 - Error during Access to HTTP Server. : mcusDocs.json._tmp_.
+2026-09-16 17:07:47,314 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:47,314 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:47,957 [WARN] MainUpdater:1122 - Updater busy. Cannot search thirdparties
+2026-09-16 17:07:47,957 [INFO] ThirdPartyUpdaterWithRetryManager:92 - Updater plugin is busy. [8/15]
+2026-09-16 17:07:48,339 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:48,339 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:49,197 [INFO] LoadUrlFilesThread:145 - End of LoadUrlFiles Thread
+2026-09-16 17:07:49,292 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:49,292 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:50,235 [INFO] DbMcusAds:47 - JSON generation date=Wed Jul 15 16:44:54 ICT 2026 (1784108694001)
+2026-09-16 17:07:50,248 [INFO] DbMcusDocs:143 - JSON generation date=Mon Jun 07 15:53:21 ICT 2021 (1623056001)
+2026-09-16 17:07:50,251 [INFO] DbMcusXml:100 - Load MCU database from C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/mcu/families.xml
+2026-09-16 17:07:50,298 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:50,298 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:50,909 [INFO] DbMcusJson:93 - JSON generation date=Mon Jun 07 15:53:21 ICT 2021 (1623056001)
+2026-09-16 17:07:51,170 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.3.5.0
+2026-09-16 17:07:51,183 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.FP-ATR-ASTRA1.2.0.3
+2026-09-16 17:07:51,190 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.X-CUBE-SMBUS.2.1.1.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,201 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.1.0
+2026-09-16 17:07:51,213 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.X-CUBE-FREERTOS.1.6.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,215 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.FP-SNS-MOTENV1.5.1.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,248 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7RS.1.3.0
+2026-09-16 17:07:51,254 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\WES.I-CUBE-Cesium.1.4.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,260 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.X-CUBE-DISPLAY.3.0.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,266 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.7.1.1
+2026-09-16 17:07:51,268 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.FP-SNS-MOTENVWB1.1.5.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,278 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC10.1.0.0
+2026-09-16 17:07:51,284 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.X-CUBE-ST60.1.1.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,284 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\emotas.I-CUBE-CANOPEN.1.3.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,284 [WARN] PackLoader:238 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSL.5.9.2
+2026-09-16 17:07:51,292 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.X-CUBE-WBA.1.1.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,296 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.FP-SNS-STBOX1.2.1.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,296 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.FP-SNS-SMARTAG2.1.2.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:51,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:51,296 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.FP-SNS-FLIGHT1.5.1.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,307 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2026-09-16 17:07:51,307 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2026-09-16 17:07:51,307 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2026-09-16 17:07:51,307 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2026-09-16 17:07:51,323 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2026-09-16 17:07:51,323 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WL.2.0.0
+2026-09-16 17:07:51,332 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.3.0
+2026-09-16 17:07:51,332 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\Avnet-IOTCONNECT.X-CUBE-iotc-st67-sdk.1.0.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,339 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\Infineon.AIROC-Wi-Fi-Bluetooth-STM32.1.8.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,339 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC9.1.0.0
+2026-09-16 17:07:51,339 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.7.1.0
+2026-09-16 17:07:51,361 [WARN] PackLoader:238 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfMQTT.1.19.2
+2026-09-16 17:07:51,367 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.5.2.0
+2026-09-16 17:07:51,371 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.FP-SNS-STAIOTCFT.1.1.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,371 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G0.1.1.0
+2026-09-16 17:07:51,387 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.3.0.0
+2026-09-16 17:07:51,392 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\EmbeddedOffice.I-CUBE-FS-RTOS.1.0.1.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,392 [WARN] PackLoader:238 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfTPM.3.8.0
+2026-09-16 17:07:51,392 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.X-CUBE-TCPP.4.2.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,392 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\RealThread.X-CUBE-RT-Thread_Nano.4.1.1.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,392 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.FP-ATR-SIGFOX1.3.2.0
+2026-09-16 17:07:51,402 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\ITTIA_DB.I-CUBE-ITTIADB.8.9.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,402 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\Cesanta.I-CUBE-Mongoose.7.21.7.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,413 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC6.3.2.0
+2026-09-16 17:07:51,417 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.10.2.1
+2026-09-16 17:07:51,442 [WARN] PackLoader:238 - Cannot read IP mode file for SEGGER.I-CUBE-embOS.1.3.1
+2026-09-16 17:07:51,446 [INFO] DbMcus:175 - Found 1951 MCUs (1903 are supported by CubeMX, 1903 are visible in CubeMX)
+2026-09-16 17:07:51,446 [INFO] ApiDb:251 - Load user favorites file C:\Users\Lenovo/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2026-09-16 17:07:51,446 [INFO] ApiDb:255 - User favorites MCUs=[]
+2026-09-16 17:07:51,446 [INFO] DbMcus:187 - Set 0 / 0 favorites MCUs
+2026-09-16 17:07:51,487 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC13.1.0.0
+2026-09-16 17:07:51,491 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-PM33A1.1.0.0
+2026-09-16 17:07:51,509 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F4.1.1.0
+2026-09-16 17:07:51,514 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ISPU.2.1.0
+2026-09-16 17:07:51,522 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.X-CUBE-IPS.3.2.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,522 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.eDS-WB_DPC_TT-BIDIR.2.1.1.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,522 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC12.1.0.0
+2026-09-16 17:07:51,532 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L5.2.0.0
+2026-09-16 17:07:51,545 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.5.0
+2026-09-16 17:07:51,545 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.eDS-WB_DPC_VIENNA.1.2.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,577 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.13.0.0
+2026-09-16 17:07:51,672 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.eDS-WB_DPC_3PH2L-BIDIR.1.1.1.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,688 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.X-CUBE-ST67W61.1.3.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,691 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.26.1
+2026-09-16 17:07:51,696 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.X-CUBE-DPower.1.3.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,721 [WARN] ConditionMgr:437 - getConditionDescription Invalid condition id : LAN8742 Phy interface Condition cause : null
+2026-09-16 17:07:51,721 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L4.2.0.0
+2026-09-16 17:07:51,721 [WARN] ConditionMgr:1038 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2026-09-16 17:07:51,721 [WARN] ConditionMgr:1038 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2026-09-16 17:07:51,721 [WARN] ConditionMgr:1038 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2026-09-16 17:07:51,729 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0
+2026-09-16 17:07:51,733 [INFO] MainUpdater:2671 - connection check result : 10
+2026-09-16 17:07:51,740 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-WB05N.2.1.0
+2026-09-16 17:07:51,751 [WARN] ConditionMgr:437 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2026-09-16 17:07:51,751 [WARN] ConditionMgr:437 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2026-09-16 17:07:51,751 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0
+2026-09-16 17:07:51,755 [WARN] ConditionMgr:1038 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2026-09-16 17:07:51,755 [WARN] ConditionMgr:1038 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2026-09-16 17:07:51,755 [WARN] ConditionMgr:1038 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2026-09-16 17:07:51,755 [WARN] ConditionMgr:1038 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2026-09-16 17:07:51,755 [WARN] ConditionMgr:1038 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2026-09-16 17:07:51,759 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\quantropi.X-CUBE-qispace-sdk-base.2.1.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,763 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-STSE01.2.0.0
+2026-09-16 17:07:51,775 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.5.0.0
+2026-09-16 17:07:51,789 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G4.2.0.0
+2026-09-16 17:07:51,799 [INFO] DbMcusDocs:79 - Found 669 MCUs documents
+2026-09-16 17:07:51,799 [WARN] PackLoader:238 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSH.1.4.20
+2026-09-16 17:07:51,799 [INFO] ApiDb:276 - Save user favorites file C:\Users\Lenovo/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2026-09-16 17:07:51,802 [INFO] ApiDb:280 - User favorites MCUs=[]
+2026-09-16 17:07:51,802 [INFO] DbMcusXml:100 - Load MCU database from C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/mcu/families.xml
+2026-09-16 17:07:51,807 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC7.2.0.0
+2026-09-16 17:07:51,807 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.X-CUBE-BLEMGR.4.2.0.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,815 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.X-CUBE-ALS.1.0.2.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,815 [ERROR] Engine:463 - C:\Users\Lenovo\.stm32cubemx\thirdparties\pdsc\STMicroelectronics.X-CUBE-TOF1.3.4.3.pdsc: PDSC version is not supported
+2026-09-16 17:07:51,815 [INFO] ThirdParty:915 - Integrity check success = true
+2026-09-16 17:07:51,815 [INFO] IntegrityCheckThread:94 - exiting critical section [integrity check]
+2026-09-16 17:07:51,815 [INFO] IntegrityCheckThread:97 - End integrity checks thread
+2026-09-16 17:07:52,233 [INFO] DbMcusJson:93 - JSON generation date=Mon Jun 07 15:53:21 ICT 2021 (1623056001)
+2026-09-16 17:07:52,333 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:52,333 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:52,719 [INFO] DbMcus:175 - Found 1951 MCUs (1903 are supported by CubeMX, 1903 are visible in CubeMX)
+2026-09-16 17:07:52,719 [INFO] ApiDb:251 - Load user favorites file C:\Users\Lenovo/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2026-09-16 17:07:52,719 [INFO] ApiDb:255 - User favorites MCUs=[]
+2026-09-16 17:07:52,719 [INFO] DbMcus:187 - Set 0 / 0 favorites MCUs
+2026-09-16 17:07:52,735 [INFO] DbBoardsDocs:143 - JSON generation date=Tue Jun 01 12:52:40 ICT 2021 (1622526760)
+2026-09-16 17:07:52,735 [INFO] DbBoardsPdsc:90 - Found 25 items
+2026-09-16 17:07:52,735 [INFO] DbBoardsPdsc:90 - Found 9 items
+2026-09-16 17:07:52,735 [INFO] DbBoardsPdsc:90 - Found 33 items
+2026-09-16 17:07:52,735 [INFO] DbBoardsPdsc:90 - Found 1 items
+2026-09-16 17:07:52,751 [INFO] DbBoardsPdsc:90 - Found 48 items
+2026-09-16 17:07:52,751 [INFO] DbBoardsPdsc:90 - Found 43 items
+2026-09-16 17:07:52,751 [INFO] DbBoardsPdsc:90 - Found 2 items
+2026-09-16 17:07:52,751 [INFO] DbBoardsPdsc:90 - Found 5 items
+2026-09-16 17:07:52,751 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2026-09-16 17:07:52,751 [WARN] DbBoardsPdsc:254 - Board STM32H735G-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (WM8994ECS/R), n=1
+2026-09-16 17:07:52,751 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2026-09-16 17:07:52,751 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2026-09-16 17:07:52,751 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2026-09-16 17:07:52,751 [WARN] DbBoardsPdsc:254 - Board STM32U575I-EV: unknown feature type=joystick, name=, username=4-direction joystick with selection button, n=1
+2026-09-16 17:07:52,767 [INFO] DbBoardsJson:86 - JSON generation date=Tue Jun 01 12:52:40 ICT 2021 (1622526760)
+2026-09-16 17:07:52,767 [INFO] DbBoards:117 - Found 166 boards (163 are supported by CubeMX)
+2026-09-16 17:07:52,783 [INFO] DbBoardsDocs:143 - JSON generation date=Tue Jun 01 12:52:40 ICT 2021 (1622526760)
+2026-09-16 17:07:52,783 [INFO] DbBoardsDocs:79 - Found 193 boards documents
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board B-L462E-CELL1 has no document id list !
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board B-L475E-IOT01A2 has no document id list !
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board B-U585I-IOT02A has no document id list !
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board NUCLEO-G0B1RE has no document id list !
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board NUCLEO-H743ZI has no document id list !
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board NUCLEO-L4A6ZG has no document id list !
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board NUCLEO-U575ZI-Q has no document id list !
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board NUCLEO-WB15CC has no document id list !
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board NUCLEO-WB55RG has no document id list !
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board NUCLEO-WL55JC2 has no document id list !
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board STEVAL-BFA001V1B has no document id list !
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board STEVAL-BFA001V2B has no document id list !
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board STEVAL-IDP005V1 has no document id list !
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board STEVAL-IDP005V2 has no document id list !
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board STEVAL-MKSBOX1V1 has no document id list !
+2026-09-16 17:07:52,783 [WARN] DbBoards:127 - board STEVAL-STWINKT1 has no document id list !
+2026-09-16 17:07:52,799 [WARN] DbBoards:127 - board STEVAL-STWINKT1B has no document id list !
+2026-09-16 17:07:52,799 [WARN] DbBoards:127 - board STM32F401C-DISCO has no document id list !
+2026-09-16 17:07:52,799 [WARN] DbBoards:127 - board STM32F769I-DISC1 has no document id list !
+2026-09-16 17:07:52,799 [WARN] DbBoards:127 - board STM32G0C1E-EV has no document id list !
+2026-09-16 17:07:52,799 [WARN] DbBoards:127 - board STM32G474E-EVAL1 has no document id list !
+2026-09-16 17:07:52,799 [WARN] DbBoards:127 - board STM32H743I-EVAL2 has no document id list !
+2026-09-16 17:07:52,799 [WARN] DbBoards:127 - board STM32H747I-DISC1 has no document id list !
+2026-09-16 17:07:52,799 [WARN] DbBoards:127 - board STM32H753I-EVAL2 has no document id list !
+2026-09-16 17:07:52,799 [WARN] DbBoards:127 - board STM32L-DISCOVERY has no document id list !
+2026-09-16 17:07:52,799 [WARN] DbBoards:127 - board STM32MP157A-DK1 has no document id list !
+2026-09-16 17:07:52,799 [WARN] DbBoards:127 - board STM32MP157D-DK1 has no document id list !
+2026-09-16 17:07:52,799 [WARN] DbBoards:127 - board STM32MP157D-EV1 has no document id list !
+2026-09-16 17:07:52,799 [WARN] DbBoards:127 - board STM32MP157F-DK2 has no document id list !
+2026-09-16 17:07:52,799 [WARN] DbBoards:127 - board STM32MP157F-EV1 has no document id list !
+2026-09-16 17:07:52,799 [WARN] DbBoards:127 - board STM32U575I-EV has no document id list !
+2026-09-16 17:07:52,799 [WARN] DbBoards:127 - board STM32WB5MM-DK has no document id list !
+2026-09-16 17:07:53,291 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:53,291 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:54,152 [INFO] ApiDb:251 - Load user favorites file C:\Users\Lenovo/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2026-09-16 17:07:54,152 [INFO] ApiDb:255 - User favorites Boards=[]
+2026-09-16 17:07:54,152 [INFO] DbBoards:206 - Set 0 / 0 favorites Boards
+2026-09-16 17:07:54,162 [INFO] DbBoardsDocs:79 - Found 386 boards documents
+2026-09-16 17:07:54,162 [INFO] ApiDb:276 - Save user favorites file C:\Users\Lenovo/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2026-09-16 17:07:54,162 [INFO] ApiDb:280 - User favorites Boards=[]
+2026-09-16 17:07:54,168 [INFO] DbBoardsPdsc:90 - Found 25 items
+2026-09-16 17:07:54,168 [INFO] DbBoardsPdsc:90 - Found 9 items
+2026-09-16 17:07:54,168 [INFO] DbBoardsPdsc:90 - Found 33 items
+2026-09-16 17:07:54,168 [INFO] DbBoardsPdsc:90 - Found 1 items
+2026-09-16 17:07:54,168 [INFO] DbBoardsPdsc:90 - Found 48 items
+2026-09-16 17:07:54,168 [INFO] DbBoardsPdsc:90 - Found 43 items
+2026-09-16 17:07:54,168 [INFO] DbBoardsPdsc:90 - Found 2 items
+2026-09-16 17:07:54,168 [INFO] DbBoardsPdsc:90 - Found 5 items
+2026-09-16 17:07:54,183 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2026-09-16 17:07:54,183 [WARN] DbBoardsPdsc:254 - Board STM32H735G-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (WM8994ECS/R), n=1
+2026-09-16 17:07:54,183 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2026-09-16 17:07:54,183 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2026-09-16 17:07:54,183 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2026-09-16 17:07:54,183 [WARN] DbBoardsPdsc:254 - Board STM32U575I-EV: unknown feature type=joystick, name=, username=4-direction joystick with selection button, n=1
+2026-09-16 17:07:54,183 [INFO] DbBoardsJson:86 - JSON generation date=Tue Jun 01 12:52:40 ICT 2021 (1622526760)
+2026-09-16 17:07:54,183 [INFO] DbBoards:117 - Found 166 boards (163 are supported by CubeMX)
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board B-L462E-CELL1 has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board B-L475E-IOT01A2 has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board B-U585I-IOT02A has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board NUCLEO-G0B1RE has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board NUCLEO-H743ZI has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board NUCLEO-L4A6ZG has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board NUCLEO-U575ZI-Q has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board NUCLEO-WB15CC has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board NUCLEO-WB55RG has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board NUCLEO-WL55JC2 has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STEVAL-BFA001V1B has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STEVAL-BFA001V2B has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STEVAL-IDP005V1 has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STEVAL-IDP005V2 has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STEVAL-MKSBOX1V1 has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STEVAL-STWINKT1 has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STEVAL-STWINKT1B has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STM32F401C-DISCO has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STM32F769I-DISC1 has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STM32G0C1E-EV has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STM32G474E-EVAL1 has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STM32H743I-EVAL2 has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STM32H747I-DISC1 has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STM32H753I-EVAL2 has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STM32L-DISCOVERY has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STM32MP157A-DK1 has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STM32MP157D-DK1 has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STM32MP157D-EV1 has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STM32MP157F-DK2 has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STM32MP157F-EV1 has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STM32U575I-EV has no document id list !
+2026-09-16 17:07:54,199 [WARN] DbBoards:127 - board STM32WB5MM-DK has no document id list !
+2026-09-16 17:07:54,279 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:54,279 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:55,152 [INFO] ApiDb:251 - Load user favorites file C:\Users\Lenovo/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2026-09-16 17:07:55,152 [INFO] ApiDb:255 - User favorites Boards=[]
+2026-09-16 17:07:55,152 [INFO] DbBoards:206 - Set 0 / 0 favorites Boards
+2026-09-16 17:07:55,152 [ERROR] TargetSelectorAdapter:232 - Unable to refresh data
+2026-09-16 17:07:55,152 [INFO] McuFinderGlobals:52 - Set McuFinderConnectedMode to true
+2026-09-16 17:07:55,184 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] java.lang.NullPointerException
+2026-09-16 17:07:55,184 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:131)
+2026-09-16 17:07:55,184 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+2026-09-16 17:07:55,200 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+2026-09-16 17:07:55,200 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+2026-09-16 17:07:55,200 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2026-09-16 17:07:55,200 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+2026-09-16 17:07:55,200 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:788)
+2026-09-16 17:07:55,200 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.informationcenter.WelcomePageAction.run(WelcomePageAction.java:54)
+2026-09-16 17:07:55,200 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.runAction(IntroURL.java:277)
+2026-09-16 17:07:55,216 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:188)
+2026-09-16 17:07:55,216 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.lambda$0(IntroURL.java:143)
+2026-09-16 17:07:55,216 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+2026-09-16 17:07:55,216 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:143)
+2026-09-16 17:07:55,216 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+2026-09-16 17:07:55,216 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.IE.lambda$6(IE.java:525)
+2026-09-16 17:07:55,216 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.ole.win32.OleEventTable.sendEvent(OleEventTable.java:58)
+2026-09-16 17:07:55,216 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.ole.win32.OleEventSink.notifyListener(OleEventSink.java:160)
+2026-09-16 17:07:55,216 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.ole.win32.OleEventSink.Invoke(OleEventSink.java:128)
+2026-09-16 17:07:55,216 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.ole.win32.OleEventSink.access$1(OleEventSink.java:105)
+2026-09-16 17:07:55,216 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.ole.win32.OleEventSink$1.method6(OleEventSink.java:79)
+2026-09-16 17:07:55,216 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.ole.win32.COMObject.callback6(COMObject.java:120)
+2026-09-16 17:07:55,216 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+2026-09-16 17:07:55,232 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+2026-09-16 17:07:55,232 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.SwtInputBlocker.open(SwtInputBlocker.java:55)
+2026-09-16 17:07:55,235 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.SwtInputBlocker.block(SwtInputBlocker.java:111)
+2026-09-16 17:07:55,237 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment.invokeAwt(AwtEnvironment.java:179)
+2026-09-16 17:07:55,238 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment.invokeAwtAndBlockSwt(AwtEnvironment.java:206)
+2026-09-16 17:07:55,238 [INFO] McuFinderGlobals:52 - Set McuFinderConnectedMode to false
+2026-09-16 17:07:55,238 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.launchMCUFinder(TargetSelectorAdapter.java:198)
+2026-09-16 17:07:55,238 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.addTargetSelector(TargetSelectorAdapter.java:149)
+2026-09-16 17:07:55,238 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:127)
+2026-09-16 17:07:55,238 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+2026-09-16 17:07:55,238 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+2026-09-16 17:07:55,247 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+2026-09-16 17:07:55,249 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2026-09-16 17:07:55,249 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+2026-09-16 17:07:55,249 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:788)
+2026-09-16 17:07:55,249 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.informationcenter.WelcomePageAction.run(WelcomePageAction.java:54)
+2026-09-16 17:07:55,254 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.runAction(IntroURL.java:277)
+2026-09-16 17:07:55,254 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:188)
+2026-09-16 17:07:55,254 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.lambda$0(IntroURL.java:143)
+2026-09-16 17:07:55,254 [INFO] ServerAccessManage:362 - Download File mcusAds.json._tmp_
+2026-09-16 17:07:55,254 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+2026-09-16 17:07:55,254 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:143)
+2026-09-16 17:07:55,254 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+2026-09-16 17:07:55,254 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.IE.lambda$6(IE.java:525)
+2026-09-16 17:07:55,263 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.ole.win32.OleEventTable.sendEvent(OleEventTable.java:58)
+2026-09-16 17:07:55,263 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.ole.win32.OleEventSink.notifyListener(OleEventSink.java:160)
+2026-09-16 17:07:55,267 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.ole.win32.OleEventSink.Invoke(OleEventSink.java:128)
+2026-09-16 17:07:55,267 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.ole.win32.OleEventSink.access$1(OleEventSink.java:105)
+2026-09-16 17:07:55,269 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.ole.win32.OleEventSink$1.method6(OleEventSink.java:79)
+2026-09-16 17:07:55,269 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.ole.win32.COMObject.callback6(COMObject.java:120)
+2026-09-16 17:07:55,269 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+2026-09-16 17:07:55,269 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+2026-09-16 17:07:55,269 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+2026-09-16 17:07:55,269 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2026-09-16 17:07:55,280 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+2026-09-16 17:07:55,280 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+2026-09-16 17:07:55,282 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+2026-09-16 17:07:55,282 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2026-09-16 17:07:55,284 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+2026-09-16 17:07:55,284 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+2026-09-16 17:07:55,284 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+2026-09-16 17:07:55,284 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+2026-09-16 17:07:55,284 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+2026-09-16 17:07:55,284 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+2026-09-16 17:07:55,284 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+2026-09-16 17:07:55,300 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+2026-09-16 17:07:55,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2026-09-16 17:07:55,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2026-09-16 17:07:55,303 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2026-09-16 17:07:55,308 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2026-09-16 17:07:55,308 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+2026-09-16 17:07:55,308 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+2026-09-16 17:07:55,311 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+2026-09-16 17:07:55,311 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+2026-09-16 17:07:55,311 [INFO] MultiScanPanel:197 - Auto-refresh data requested => check proxy status ongoing
+2026-09-16 17:07:55,311 [INFO] MultiScanPanel:201 - Proxy status is invalid
+2026-09-16 17:07:55,311 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:55,311 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:55,311 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2026-09-16 17:07:55,389 [INFO] LoadUrlFilesThread:145 - End of LoadUrlFiles Thread
+2026-09-16 17:07:55,673 [INFO] DetailPanel:309 - Set advertising image to C:/Users/Lenovo/STM32Cube/Repository/\en.stm32h5cubemxbanner.png
+2026-09-16 17:07:56,293 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:56,293 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:57,298 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:57,298 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:58,291 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:58,291 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:07:59,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:07:59,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:00,307 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:00,307 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:01,292 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:01,292 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:02,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:02,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:03,288 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:03,288 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:04,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:04,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:05,294 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:05,294 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:06,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:06,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:07,306 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:07,306 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:08,290 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:08,290 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:09,295 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:09,295 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:10,292 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:10,292 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:11,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:11,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:12,304 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:12,304 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:13,300 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:13,300 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:14,307 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:14,307 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:15,301 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:15,301 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:16,129 [ERROR] ServerAccessManage:1016 - HTTP unexpected response (522) for https://stmcufinder.com/API/getFiles.php?
+2026-09-16 17:08:16,129 [ERROR] ServerAccessManage:531 - Error during Access to HTTP Server. : mcusDocs.json._tmp_.
+2026-09-16 17:08:16,293 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:16,293 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:17,415 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:17,415 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:18,299 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:18,299 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:19,316 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:19,316 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:20,294 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:20,294 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:21,306 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:21,306 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:22,304 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:22,304 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:23,298 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:23,298 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:24,304 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:24,304 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:25,310 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:25,310 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:26,301 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:26,301 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:27,342 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:27,342 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:28,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:28,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:28,383 [INFO] LoadUrlFilesThread:145 - End of LoadUrlFiles Thread
+2026-09-16 17:08:29,228 [INFO] DbMcusAds:47 - JSON generation date=Wed Jul 15 16:44:54 ICT 2026 (1784108694001)
+2026-09-16 17:08:29,244 [INFO] DbMcusDocs:143 - JSON generation date=Mon Jun 07 15:53:21 ICT 2021 (1623056001)
+2026-09-16 17:08:29,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:29,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:29,513 [INFO] DbMcusDocs:79 - Found 669 MCUs documents
+2026-09-16 17:08:29,514 [INFO] ApiDb:276 - Save user favorites file C:\Users\Lenovo/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2026-09-16 17:08:29,514 [INFO] ApiDb:280 - User favorites MCUs=[]
+2026-09-16 17:08:29,514 [INFO] DbMcusXml:100 - Load MCU database from C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/mcu/families.xml
+2026-09-16 17:08:30,068 [INFO] DbMcusJson:93 - JSON generation date=Mon Jun 07 15:53:21 ICT 2021 (1623056001)
+2026-09-16 17:08:30,294 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:30,294 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:30,481 [INFO] DbMcus:175 - Found 1951 MCUs (1903 are supported by CubeMX, 1903 are visible in CubeMX)
+2026-09-16 17:08:30,481 [INFO] ApiDb:251 - Load user favorites file C:\Users\Lenovo/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2026-09-16 17:08:30,481 [INFO] ApiDb:255 - User favorites MCUs=[]
+2026-09-16 17:08:30,481 [INFO] DbMcus:187 - Set 0 / 0 favorites MCUs
+2026-09-16 17:08:30,862 [INFO] DbBoardsDocs:143 - JSON generation date=Tue Jun 01 12:52:40 ICT 2021 (1622526760)
+2026-09-16 17:08:30,878 [INFO] DbBoardsDocs:79 - Found 193 boards documents
+2026-09-16 17:08:30,878 [INFO] ApiDb:276 - Save user favorites file C:\Users\Lenovo/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2026-09-16 17:08:30,878 [INFO] ApiDb:280 - User favorites Boards=[]
+2026-09-16 17:08:30,894 [INFO] DbBoardsPdsc:90 - Found 25 items
+2026-09-16 17:08:30,894 [INFO] DbBoardsPdsc:90 - Found 9 items
+2026-09-16 17:08:30,894 [INFO] DbBoardsPdsc:90 - Found 33 items
+2026-09-16 17:08:30,894 [INFO] DbBoardsPdsc:90 - Found 1 items
+2026-09-16 17:08:30,894 [INFO] DbBoardsPdsc:90 - Found 48 items
+2026-09-16 17:08:30,894 [INFO] DbBoardsPdsc:90 - Found 43 items
+2026-09-16 17:08:30,894 [INFO] DbBoardsPdsc:90 - Found 2 items
+2026-09-16 17:08:30,910 [INFO] DbBoardsPdsc:90 - Found 5 items
+2026-09-16 17:08:30,910 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2026-09-16 17:08:30,910 [WARN] DbBoardsPdsc:254 - Board STM32H735G-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (WM8994ECS/R), n=1
+2026-09-16 17:08:30,910 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2026-09-16 17:08:30,910 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2026-09-16 17:08:30,910 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2026-09-16 17:08:30,910 [WARN] DbBoardsPdsc:254 - Board STM32U575I-EV: unknown feature type=joystick, name=, username=4-direction joystick with selection button, n=1
+2026-09-16 17:08:30,910 [INFO] DbBoardsJson:86 - JSON generation date=Tue Jun 01 12:52:40 ICT 2021 (1622526760)
+2026-09-16 17:08:30,926 [INFO] DbBoards:117 - Found 166 boards (163 are supported by CubeMX)
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board B-L462E-CELL1 has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board B-L475E-IOT01A2 has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board B-U585I-IOT02A has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board NUCLEO-G0B1RE has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board NUCLEO-H743ZI has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board NUCLEO-L4A6ZG has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board NUCLEO-U575ZI-Q has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board NUCLEO-WB15CC has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board NUCLEO-WB55RG has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board NUCLEO-WL55JC2 has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STEVAL-BFA001V1B has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STEVAL-BFA001V2B has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STEVAL-IDP005V1 has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STEVAL-IDP005V2 has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STEVAL-MKSBOX1V1 has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STEVAL-STWINKT1 has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STEVAL-STWINKT1B has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STM32F401C-DISCO has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STM32F769I-DISC1 has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STM32G0C1E-EV has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STM32G474E-EVAL1 has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STM32H743I-EVAL2 has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STM32H747I-DISC1 has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STM32H753I-EVAL2 has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STM32L-DISCOVERY has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STM32MP157A-DK1 has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STM32MP157D-DK1 has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STM32MP157D-EV1 has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STM32MP157F-DK2 has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STM32MP157F-EV1 has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STM32U575I-EV has no document id list !
+2026-09-16 17:08:30,926 [WARN] DbBoards:127 - board STM32WB5MM-DK has no document id list !
+2026-09-16 17:08:31,304 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:31,304 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:31,940 [INFO] ApiDb:251 - Load user favorites file C:\Users\Lenovo/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2026-09-16 17:08:31,940 [INFO] ApiDb:255 - User favorites Boards=[]
+2026-09-16 17:08:31,940 [INFO] DbBoards:206 - Set 0 / 0 favorites Boards
+2026-09-16 17:08:32,160 [ERROR] TargetSelectorAdapter:232 - Unable to refresh data
+2026-09-16 17:08:32,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:32,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:32,873 [INFO] McuFinderGlobals:52 - Set McuFinderConnectedMode to false
+2026-09-16 17:08:32,877 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2026-09-16 17:08:32,877 [INFO] MultiScanPanel:197 - Auto-refresh data requested => check proxy status ongoing
+2026-09-16 17:08:32,877 [INFO] MultiScanPanel:201 - Proxy status is invalid
+2026-09-16 17:08:32,877 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2026-09-16 17:08:32,914 [INFO] MainUpdater:2671 - connection check result : 10
+2026-09-16 17:08:33,049 [INFO] DetailPanel:309 - Set advertising image to C:/Users/Lenovo/STM32Cube/Repository/\en.stm32h5cubemxbanner.png
+2026-09-16 17:08:33,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:33,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:33,349 [INFO] McuFinderGlobals:52 - Set McuFinderConnectedMode to true
+2026-09-16 17:08:34,275 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:34,275 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:35,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:35,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:36,295 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:36,295 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:36,989 [INFO] McuFinderGlobals:52 - Set McuFinderConnectedMode to false
+2026-09-16 17:08:37,006 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: C:\Users\Lenovo\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2026-09-16 17:08:37,006 [INFO] MultiScanPanel:197 - Auto-refresh data requested => check proxy status ongoing
+2026-09-16 17:08:37,006 [INFO] MultiScanPanel:201 - Proxy status is invalid
+2026-09-16 17:08:37,021 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2026-09-16 17:08:37,087 [INFO] ServerAccessManage:362 - Download File mcusAds.json._tmp_
+2026-09-16 17:08:37,243 [INFO] LoadUrlFilesThread:145 - End of LoadUrlFiles Thread
+2026-09-16 17:08:37,307 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:37,307 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:37,307 [INFO] DetailPanel:309 - Set advertising image to C:/Users/Lenovo/STM32Cube/Repository/\en.stm32h5cubemxbanner.png
+2026-09-16 17:08:38,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:38,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:39,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:39,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:40,291 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:40,291 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:41,273 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:41,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:42,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:42,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:43,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:43,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:44,305 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:44,308 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:45,309 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:45,309 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:46,312 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:46,312 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:47,301 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:47,301 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:48,290 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:48,290 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:49,313 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:49,313 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:50,290 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:50,290 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:51,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:51,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:52,301 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:52,301 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:53,306 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:53,306 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:54,324 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:54,324 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:55,307 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:55,307 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:56,179 [INFO] DbMcusAds:47 - JSON generation date=Wed Jul 15 16:44:54 ICT 2026 (1784108694001)
+2026-09-16 17:08:56,189 [INFO] DbMcusDocs:143 - JSON generation date=Mon Jun 07 15:53:21 ICT 2021 (1623056001)
+2026-09-16 17:08:56,297 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:56,297 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:56,479 [INFO] DbMcusDocs:79 - Found 669 MCUs documents
+2026-09-16 17:08:56,479 [INFO] ApiDb:276 - Save user favorites file C:\Users\Lenovo/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2026-09-16 17:08:56,479 [INFO] ApiDb:280 - User favorites MCUs=[]
+2026-09-16 17:08:56,479 [INFO] DbMcusXml:100 - Load MCU database from C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/mcu/families.xml
+2026-09-16 17:08:56,984 [INFO] DbMcusJson:93 - JSON generation date=Mon Jun 07 15:53:21 ICT 2021 (1623056001)
+2026-09-16 17:08:57,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:57,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:57,305 [ERROR] ServerAccessManage:1016 - HTTP unexpected response (522) for https://stmcufinder.com/API/getFiles.php?
+2026-09-16 17:08:57,305 [ERROR] ServerAccessManage:531 - Error during Access to HTTP Server. : mcusDocs.json._tmp_.
+2026-09-16 17:08:57,621 [INFO] LoadUrlFilesThread:145 - End of LoadUrlFiles Thread
+2026-09-16 17:08:57,655 [INFO] DbMcus:175 - Found 1951 MCUs (1903 are supported by CubeMX, 1903 are visible in CubeMX)
+2026-09-16 17:08:57,655 [INFO] ApiDb:251 - Load user favorites file C:\Users\Lenovo/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2026-09-16 17:08:57,655 [INFO] ApiDb:255 - User favorites MCUs=[]
+2026-09-16 17:08:57,655 [INFO] DbMcus:187 - Set 0 / 0 favorites MCUs
+2026-09-16 17:08:58,023 [INFO] DbBoardsDocs:143 - JSON generation date=Tue Jun 01 12:52:40 ICT 2021 (1622526760)
+2026-09-16 17:08:58,056 [INFO] DbBoardsDocs:79 - Found 193 boards documents
+2026-09-16 17:08:58,058 [INFO] ApiDb:276 - Save user favorites file C:\Users\Lenovo/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2026-09-16 17:08:58,058 [INFO] ApiDb:280 - User favorites Boards=[]
+2026-09-16 17:08:58,060 [INFO] DbBoardsPdsc:90 - Found 25 items
+2026-09-16 17:08:58,062 [INFO] DbBoardsPdsc:90 - Found 9 items
+2026-09-16 17:08:58,064 [INFO] DbBoardsPdsc:90 - Found 33 items
+2026-09-16 17:08:58,064 [INFO] DbBoardsPdsc:90 - Found 1 items
+2026-09-16 17:08:58,068 [INFO] DbBoardsPdsc:90 - Found 48 items
+2026-09-16 17:08:58,073 [INFO] DbBoardsPdsc:90 - Found 43 items
+2026-09-16 17:08:58,075 [INFO] DbBoardsPdsc:90 - Found 2 items
+2026-09-16 17:08:58,075 [INFO] DbBoardsPdsc:90 - Found 5 items
+2026-09-16 17:08:58,077 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2026-09-16 17:08:58,077 [WARN] DbBoardsPdsc:254 - Board STM32H735G-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (WM8994ECS/R), n=1
+2026-09-16 17:08:58,077 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2026-09-16 17:08:58,077 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2026-09-16 17:08:58,077 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2026-09-16 17:08:58,077 [WARN] DbBoardsPdsc:254 - Board STM32U575I-EV: unknown feature type=joystick, name=, username=4-direction joystick with selection button, n=1
+2026-09-16 17:08:58,088 [INFO] DbBoardsJson:86 - JSON generation date=Tue Jun 01 12:52:40 ICT 2021 (1622526760)
+2026-09-16 17:08:58,092 [INFO] DbBoards:117 - Found 166 boards (163 are supported by CubeMX)
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board B-L462E-CELL1 has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board B-L475E-IOT01A2 has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board B-U585I-IOT02A has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board NUCLEO-G0B1RE has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board NUCLEO-H743ZI has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board NUCLEO-L4A6ZG has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board NUCLEO-U575ZI-Q has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board NUCLEO-WB15CC has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board NUCLEO-WB55RG has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board NUCLEO-WL55JC2 has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board STEVAL-BFA001V1B has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board STEVAL-BFA001V2B has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board STEVAL-IDP005V1 has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board STEVAL-IDP005V2 has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board STEVAL-MKSBOX1V1 has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board STEVAL-STWINKT1 has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board STEVAL-STWINKT1B has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board STM32F401C-DISCO has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board STM32F769I-DISC1 has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board STM32G0C1E-EV has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board STM32G474E-EVAL1 has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board STM32H743I-EVAL2 has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board STM32H747I-DISC1 has no document id list !
+2026-09-16 17:08:58,092 [WARN] DbBoards:127 - board STM32H753I-EVAL2 has no document id list !
+2026-09-16 17:08:58,094 [WARN] DbBoards:127 - board STM32L-DISCOVERY has no document id list !
+2026-09-16 17:08:58,094 [WARN] DbBoards:127 - board STM32MP157A-DK1 has no document id list !
+2026-09-16 17:08:58,094 [WARN] DbBoards:127 - board STM32MP157D-DK1 has no document id list !
+2026-09-16 17:08:58,094 [WARN] DbBoards:127 - board STM32MP157D-EV1 has no document id list !
+2026-09-16 17:08:58,094 [WARN] DbBoards:127 - board STM32MP157F-DK2 has no document id list !
+2026-09-16 17:08:58,094 [WARN] DbBoards:127 - board STM32MP157F-EV1 has no document id list !
+2026-09-16 17:08:58,094 [WARN] DbBoards:127 - board STM32U575I-EV has no document id list !
+2026-09-16 17:08:58,094 [WARN] DbBoards:127 - board STM32WB5MM-DK has no document id list !
+2026-09-16 17:08:58,307 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:58,309 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:59,305 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:08:59,305 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:08:59,451 [INFO] ApiDb:251 - Load user favorites file C:\Users\Lenovo/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2026-09-16 17:08:59,451 [INFO] ApiDb:255 - User favorites Boards=[]
+2026-09-16 17:08:59,451 [INFO] DbBoards:206 - Set 0 / 0 favorites Boards
+2026-09-16 17:08:59,634 [ERROR] TargetSelectorAdapter:232 - Unable to refresh data
+2026-09-16 17:09:00,305 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:00,305 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:01,292 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:01,292 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:02,293 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:02,293 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:03,307 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:03,311 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:04,308 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:04,308 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:05,294 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:05,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:06,299 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:06,299 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:07,305 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:07,305 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:08,298 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:08,301 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:09,300 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:09,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:10,291 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:10,291 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:11,298 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:11,299 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:12,290 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:12,290 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:13,300 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:13,300 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:14,291 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:14,291 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:15,297 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:15,297 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:16,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:16,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:17,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:17,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:18,304 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:18,304 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:19,280 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:19,294 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:20,300 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:20,300 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:21,330 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:21,330 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:22,291 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:22,291 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:23,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:23,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:24,297 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:24,297 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:25,295 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:25,295 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:26,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:26,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:27,312 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:27,312 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:28,287 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:28,287 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:29,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:29,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:30,292 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:30,292 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:31,277 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:31,277 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:32,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:32,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:33,328 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:33,328 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:34,295 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:34,295 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:35,368 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:35,368 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:36,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:36,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:36,662 [INFO] MainUpdater:2671 - connection check result : 10
+2026-09-16 17:09:36,662 [INFO] MainUpdater:2671 - connection check result : 10
+2026-09-16 17:09:36,700 [INFO] MicroXplorer:448 - Change Database Path : 
+2026-09-16 17:09:36,705 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2026-09-16 17:09:36,705 [WARN] ThirdParty:813 - waiting for thirdparty lock release [close project]
+2026-09-16 17:09:36,705 [INFO] ThirdParty:815 - entering critical section [close project]
+2026-09-16 17:09:36,705 [INFO] ThirdParty:825 - exiting critical section [close project]
+2026-09-16 17:09:36,705 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2026-09-16 17:09:36,705 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 918819592 Bytes (1073741824)
+2026-09-16 17:09:36,705 [INFO] MicroXplorer:448 - Change Database Path : 
+2026-09-16 17:09:36,705 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2026-09-16 17:09:36,705 [INFO] OpenFileManager:313 - Change cursor
+2026-09-16 17:09:37,295 [INFO] Context:592 - Trying to add GPIOservice into a context  which must be forbidden
+2026-09-16 17:09:37,295 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:37,295 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:37,439 [INFO] ImportTextPane:167 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2026-09-16 17:09:37,439 [INFO] ImportTextPane:167 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2026-09-16 17:09:37,439 [INFO] ImportTextPane:167 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2026-09-16 17:09:37,468 [WARN] ApiManager:304 - Cannot register API 'Board Extension:PM33A1' from pack STMicroelectronics.X-CUBE-PM33A1.1.0.0: no header file found
+2026-09-16 17:09:37,468 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC09A1' from pack STMicroelectronics.X-CUBE-NFC9.1.0.0: no header file found
+2026-09-16 17:09:37,484 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.7.1.0: no header file found
+2026-09-16 17:09:37,486 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.5.2.0: no header file found
+2026-09-16 17:09:37,486 [WARN] ApiManager:304 - Cannot register API 'Board Extension:PGEEZ1' from pack STMicroelectronics.X-CUBE-EEPRMA1.5.2.0: no header file found
+2026-09-16 17:09:37,486 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEICA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.5.2.0: no header file found
+2026-09-16 17:09:37,486 [WARN] ApiManager:304 - Cannot register API 'Board Part:M24' from pack STMicroelectronics.X-CUBE-EEPRMA1.5.2.0: no header file found
+2026-09-16 17:09:37,486 [WARN] ApiManager:304 - Cannot register API 'Board Part:M95' from pack STMicroelectronics.X-CUBE-EEPRMA1.5.2.0: no header file found
+2026-09-16 17:09:37,486 [WARN] ApiManager:304 - Cannot register API 'Board Part:M95P32' from pack STMicroelectronics.X-CUBE-EEPRMA1.5.2.0: no header file found
+2026-09-16 17:09:37,486 [WARN] ApiManager:304 - Cannot register API 'Board Part:M24256E-F' from pack STMicroelectronics.X-CUBE-EEPRMA1.5.2.0: no header file found
+2026-09-16 17:09:37,486 [WARN] ApiManager:304 - Cannot register API 'Board Part:M24M01E-F' from pack STMicroelectronics.X-CUBE-EEPRMA1.5.2.0: no header file found
+2026-09-16 17:09:37,486 [WARN] ApiManager:304 - Cannot register API 'PGEEZ1:SPI' from pack STMicroelectronics.X-CUBE-EEPRMA1.5.2.0: no header file found
+2026-09-16 17:09:37,486 [WARN] ApiManager:304 - Cannot register API 'PGEEZ1:QDSPI' from pack STMicroelectronics.X-CUBE-EEPRMA1.5.2.0: no header file found
+2026-09-16 17:09:37,488 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC12A1' from pack STMicroelectronics.X-CUBE-NFC12.1.0.0: no header file found
+2026-09-16 17:09:37,496 [WARN] ApiManager:304 - Cannot register API 'Board Extension:SAFEA1' from pack STMicroelectronics.X-CUBE-STSE01.2.0.0: no header file found
+2026-09-16 17:09:37,496 [WARN] ApiManager:304 - Cannot register API 'Board Extension:ESE01A1' from pack STMicroelectronics.X-CUBE-STSE01.2.0.0: no header file found
+2026-09-16 17:09:37,496 [WARN] ApiManager:304 - Cannot register API 'Board Extension:ESE02A1' from pack STMicroelectronics.X-CUBE-STSE01.2.0.0: no header file found
+2026-09-16 17:09:37,496 [WARN] ApiManager:304 - Cannot register API 'Board Part:STSAFEA110' from pack STMicroelectronics.X-CUBE-STSE01.2.0.0: no header file found
+2026-09-16 17:09:37,496 [WARN] ApiManager:304 - Cannot register API 'Board Part:STSAFEA120' from pack STMicroelectronics.X-CUBE-STSE01.2.0.0: no header file found
+2026-09-16 17:09:37,496 [WARN] ApiManager:304 - Cannot register API 'Board Part:STSAFEL010' from pack STMicroelectronics.X-CUBE-STSE01.2.0.0: no header file found
+2026-09-16 17:09:37,496 [WARN] ApiManager:304 - Cannot register API 'Security:STM32_Cryptographic' from pack STMicroelectronics.X-CUBE-STSE01.2.0.0: no header file found
+2026-09-16 17:09:37,496 [WARN] ApiManager:304 - Cannot register API 'Security:STSELib' from pack STMicroelectronics.X-CUBE-STSE01.2.0.0: no header file found
+2026-09-16 17:09:37,500 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2026-09-16 17:09:37,500 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2026-09-16 17:09:37,500 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2026-09-16 17:09:37,500 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2026-09-16 17:09:37,500 [WARN] ModelIntegratedComponent:181 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2026-09-16 17:09:37,500 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.3.0.0: no header file found
+2026-09-16 17:09:37,506 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2026-09-16 17:09:37,506 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2026-09-16 17:09:37,506 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2026-09-16 17:09:37,661 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.13.0.0: no header file found
+2026-09-16 17:09:37,661 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS4A1' from pack STMicroelectronics.X-CUBE-MEMS1.13.0.0: no header file found
+2026-09-16 17:09:37,661 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS5A1' from pack STMicroelectronics.X-CUBE-MEMS1.13.0.0: no header file found
+2026-09-16 17:09:37,669 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC07A1' from pack STMicroelectronics.X-CUBE-NFC7.2.0.0: no header file found
+2026-09-16 17:09:37,669 [WARN] ApiManager:304 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.7.1.1: no header file found
+2026-09-16 17:09:37,669 [WARN] ApiManager:304 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.7.1.1: no header file found
+2026-09-16 17:09:37,669 [WARN] ApiManager:304 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.7.1.1: no header file found
+2026-09-16 17:09:37,671 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC10A1' from pack STMicroelectronics.X-CUBE-NFC10.1.0.0: no header file found
+2026-09-16 17:09:37,671 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,673 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-09-16 17:09:37,675 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC06A1' from pack STMicroelectronics.X-CUBE-NFC6.3.2.0: no header file found
+2026-09-16 17:09:37,675 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC08A1' from pack STMicroelectronics.X-CUBE-NFC6.3.2.0: no header file found
+2026-09-16 17:09:37,682 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2026-09-16 17:09:37,682 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2026-09-16 17:09:37,682 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2026-09-16 17:09:37,682 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.3.0: no header file found
+2026-09-16 17:09:37,682 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC13A1' from pack STMicroelectronics.X-CUBE-NFC13.1.0.0: no header file found
+2026-09-16 17:09:37,682 [WARN] ApiManager:304 - Cannot register API 'Wireless:STM32WB05N' from pack STMicroelectronics.X-CUBE-WB05N.2.1.0: no header file found
+2026-09-16 17:09:38,310 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:38,310 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:39,234 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 934696240 Bytes (1073741824)
+2026-09-16 17:09:39,234 [WARN] ThirdParty:779 - waiting for thirdparty lock release [change project]
+2026-09-16 17:09:39,234 [INFO] ThirdParty:781 - entering critical section [change project]
+2026-09-16 17:09:39,234 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.5.0
+2026-09-16 17:09:39,234 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-PM33A1 1.0.0
+2026-09-16 17:09:39,234 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC9 1.0.0
+2026-09-16 17:09:39,234 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2026-09-16 17:09:39,234 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.3
+2026-09-16 17:09:39,234 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2026-09-16 17:09:39,234 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.1.0
+2026-09-16 17:09:39,234 [INFO] ThirdParty:967 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfMQTT 1.19.2
+2026-09-16 17:09:39,234 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2026-09-16 17:09:39,234 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.1.0
+2026-09-16 17:09:39,234 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.2.0
+2026-09-16 17:09:39,234 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2026-09-16 17:09:39,234 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC12 1.0.0
+2026-09-16 17:09:39,242 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2026-09-16 17:09:39,242 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2026-09-16 17:09:39,242 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2026-09-16 17:09:39,242 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-STSE01 2.0.0
+2026-09-16 17:09:39,242 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.5.0
+2026-09-16 17:09:39,242 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2026-09-16 17:09:39,242 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7RS 1.3.0
+2026-09-16 17:09:39,242 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2026-09-16 17:09:39,242 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2026-09-16 17:09:39,242 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2026-09-16 17:09:39,242 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2026-09-16 17:09:39,243 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 13.0.0
+2026-09-16 17:09:39,243 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2026-09-16 17:09:39,243 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2026-09-16 17:09:39,243 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2026-09-16 17:09:39,243 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfTPM 3.8.0
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSH 1.4.20
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 2.0.0
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 7.1.1
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC10 1.0.0
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.9.2
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.26.1
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.2.0
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 10.2.1
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC13 1.0.0
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2026-09-16 17:09:39,244 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-WB05N 2.1.0
+2026-09-16 17:09:39,244 [INFO] ThirdParty:787 - exiting critical section [change project]
+2026-09-16 17:09:39,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:39,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:39,421 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2026-09-16 17:09:39,421 [INFO] PinOutPanel:1463 - setPackage(STM32F103C6Ux,UFQFPN48)
+2026-09-16 17:09:39,715 [INFO] UtilMem:74 - Before build in PCC Used Memory: 893682936 Bytes (1073741824)
+2026-09-16 17:09:40,295 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:40,295 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:40,344 [INFO] UtilMem:74 - After build in PCC Used Memory: 907206392 Bytes (1073741824)
+2026-09-16 17:09:40,360 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,362 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,362 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,362 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,362 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,362 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,362 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,362 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,362 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,362 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,362 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,362 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,362 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,362 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,362 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,362 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,364 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,364 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,364 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,364 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,364 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,366 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,366 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2026-09-16 17:09:40,455 [INFO] OpenFileManager:333 - Restore cursor
+2026-09-16 17:09:40,661 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 922153616 Bytes (1073741824)
+2026-09-16 17:09:40,714 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 936312800 Bytes (1073741824)
+2026-09-16 17:09:41,051 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2026-09-16 17:09:41,051 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2026-09-16 17:09:41,051 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2026-09-16 17:09:41,051 [INFO] CodeGenerator:663 - code generatio: config db path: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2026-09-16 17:09:41,279 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vixuly-Vidieukhien\VXL_Lab_1\123\MXTmpFiles\license.tmp_save
+2026-09-16 17:09:41,306 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:41,306 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:41,540 [INFO] CodeEngine:257 - Generated code: C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vixuly-Vidieukhien\VXL_Lab_1\123\MXTmpFiles\license.tmp
+2026-09-16 17:09:41,606 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vixuly-Vidieukhien\VXL_Lab_1\123\Core\Src\stm32f1xx_it.c_save
+2026-09-16 17:09:41,726 [INFO] CodeEngine:257 - Generated code: C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vixuly-Vidieukhien\VXL_Lab_1\123\Core\Src\stm32f1xx_it.c
+2026-09-16 17:09:41,730 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vixuly-Vidieukhien\VXL_Lab_1\123\Core\Inc\stm32f1xx_it.h_save
+2026-09-16 17:09:41,789 [INFO] CodeEngine:257 - Generated code: C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vixuly-Vidieukhien\VXL_Lab_1\123\Core\Inc\stm32f1xx_it.h
+2026-09-16 17:09:41,798 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vixuly-Vidieukhien\VXL_Lab_1\123\Core\Src\stm32f1xx_hal_msp.c_save
+2026-09-16 17:09:41,885 [INFO] CodeEngine:257 - Generated code: C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vixuly-Vidieukhien\VXL_Lab_1\123\Core\Src\stm32f1xx_hal_msp.c
+2026-09-16 17:09:41,885 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vixuly-Vidieukhien\VXL_Lab_1\123\MXTmpFiles\system.tmp_save
+2026-09-16 17:09:42,190 [INFO] CodeEngine:257 - Generated code: C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vixuly-Vidieukhien\VXL_Lab_1\123\MXTmpFiles\system.tmp
+2026-09-16 17:09:42,200 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vixuly-Vidieukhien\VXL_Lab_1\123\Core\Inc\stm32f1xx_hal_conf.h_save
+2026-09-16 17:09:42,264 [INFO] CodeEngine:257 - Generated code: C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vixuly-Vidieukhien\VXL_Lab_1\123\Core\Inc\stm32f1xx_hal_conf.h
+2026-09-16 17:09:42,290 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vixuly-Vidieukhien\VXL_Lab_1\123\Core\Inc\main.h_save
+2026-09-16 17:09:42,304 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:42,305 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:42,390 [INFO] CodeEngine:257 - Generated code: C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vixuly-Vidieukhien\VXL_Lab_1\123\Core\Inc\main.h
+2026-09-16 17:09:42,400 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vixuly-Vidieukhien\VXL_Lab_1\123\Core\Src\main.c_save
+2026-09-16 17:09:42,492 [INFO] CodeEngine:257 - Generated code: C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vixuly-Vidieukhien\VXL_Lab_1\123\Core\Src\main.c
+2026-09-16 17:09:43,169 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 47mS.
+2026-09-16 17:09:43,189 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2026-09-16 17:09:43,329 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:43,329 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:43,565 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2026-09-16 17:09:43,581 [INFO] ApiDbMcu:468 - Load IP Config File for FATFS
+2026-09-16 17:09:43,608 [INFO] ApiDbMcu:468 - Load IP Config File for FREERTOS
+2026-09-16 17:09:43,624 [INFO] ApiDbMcu:468 - Load IP Config File for USB_DEVICE
+2026-09-16 17:09:44,318 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:44,319 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:45,311 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:45,312 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:46,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:46,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:46,607 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 3418mS.
+2026-09-16 17:09:46,607 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2026-09-16 17:09:46,611 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2026-09-16 17:09:47,077 [INFO] McuFinderGlobals:52 - Set McuFinderConnectedMode to true
+2026-09-16 17:09:47,079 [INFO] ApiDb:276 - Save user favorites file C:\Users\Lenovo/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2026-09-16 17:09:47,079 [INFO] ApiDb:280 - User favorites MCUs=[]
+2026-09-16 17:09:47,334 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:47,334 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:47,450 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] java.lang.NullPointerException
+2026-09-16 17:09:47,450 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:131)
+2026-09-16 17:09:47,450 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+2026-09-16 17:09:47,450 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+2026-09-16 17:09:47,450 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+2026-09-16 17:09:47,450 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2026-09-16 17:09:47,450 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+2026-09-16 17:09:47,450 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:788)
+2026-09-16 17:09:47,450 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.informationcenter.WelcomePageAction.run(WelcomePageAction.java:54)
+2026-09-16 17:09:47,450 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.runAction(IntroURL.java:277)
+2026-09-16 17:09:47,450 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:188)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.lambda$0(IntroURL.java:143)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:143)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.IE.lambda$6(IE.java:525)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.ole.win32.OleEventTable.sendEvent(OleEventTable.java:58)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.ole.win32.OleEventSink.notifyListener(OleEventSink.java:160)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.ole.win32.OleEventSink.Invoke(OleEventSink.java:128)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.ole.win32.OleEventSink.access$1(OleEventSink.java:105)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.ole.win32.OleEventSink$1.method6(OleEventSink.java:79)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.ole.win32.COMObject.callback6(COMObject.java:120)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+2026-09-16 17:09:47,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+2026-09-16 17:09:47,481 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2026-09-16 17:09:47,481 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+2026-09-16 17:09:47,481 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+2026-09-16 17:09:47,481 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+2026-09-16 17:09:47,481 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+2026-09-16 17:09:47,481 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+2026-09-16 17:09:47,481 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+2026-09-16 17:09:47,481 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+2026-09-16 17:09:47,481 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+2026-09-16 17:09:47,481 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2026-09-16 17:09:47,481 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2026-09-16 17:09:47,497 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2026-09-16 17:09:47,497 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+2026-09-16 17:09:47,497 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+2026-09-16 17:09:47,497 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+2026-09-16 17:09:47,497 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+2026-09-16 17:09:48,300 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:48,300 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:49,305 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:49,306 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:50,305 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:50,305 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:51,293 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:51,293 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:52,297 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:52,297 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:53,305 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:53,305 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:54,298 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:54,298 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:55,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:55,304 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:56,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:56,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:57,310 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:57,310 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:58,304 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:58,305 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:09:59,307 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:09:59,307 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:00,381 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:00,381 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:01,306 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:01,306 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:02,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:02,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:03,297 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:03,297 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:04,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:04,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:05,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:05,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:06,313 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:06,313 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:07,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:07,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:08,312 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:08,312 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:09,414 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:09,414 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:10,551 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:10,551 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:11,294 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:11,295 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:12,300 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:12,301 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:13,295 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:13,295 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:14,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:14,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:15,433 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:15,433 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:16,309 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:16,310 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:17,293 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:17,293 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:18,486 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:18,492 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:19,477 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:19,477 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:20,472 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:20,472 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:21,387 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:21,387 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:22,328 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:22,328 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:23,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:23,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:24,378 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:24,378 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:25,482 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:25,482 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:26,588 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:26,593 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:27,604 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:27,604 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:28,535 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:28,535 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:29,512 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:29,512 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:30,665 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:30,665 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:31,640 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:31,640 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:32,807 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:32,807 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:33,755 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:33,755 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:34,580 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:34,581 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:35,750 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:35,750 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:36,614 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:36,802 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:37,754 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:37,754 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:38,713 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:38,713 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:39,674 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2026-09-16 17:10:39,675 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-09-16 17:10:42,109 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Exception in thread "Thread-11" Exception in thread "Serial Ports Filter" java.lang.OutOfMemoryError: Java heap space
+2026-09-16 17:10:42,109 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.io.BufferedWriter.<init>(BufferedWriter.java:99)
+2026-09-16 17:10:42,125 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.io.BufferedWriter.<init>(BufferedWriter.java:82)
+2026-09-16 17:10:42,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.io.PrintWriter.<init>(PrintWriter.java:164)
+2026-09-16 17:10:42,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.io.PrintWriter.<init>(PrintWriter.java:145)
+2026-09-16 17:10:42,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.io.PrintWriter.<init>(PrintWriter.java:128)
+2026-09-16 17:10:42,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.xml/com.sun.org.apache.xerces.internal.util.DefaultErrorHandler.<init>(DefaultErrorHandler.java:55)
+2026-09-16 17:10:42,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:384)
+2026-09-16 17:10:42,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+2026-09-16 17:10:42,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1471)
+2026-09-16 17:10:42,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:1013)
+2026-09-16 17:10:42,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+2026-09-16 17:10:42,305 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112)
+2026-09-16 17:10:42,307 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:534)
+2026-09-16 17:10:42,308 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:888)
+2026-09-16 17:10:42,310 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:824)
+2026-09-16 17:10:42,311 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+2026-09-16 17:10:42,312 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:246)
+2026-09-16 17:10:42,313 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+2026-09-16 17:10:42,315 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mpu.remote.serial.internal.SerialPortProviderWindows.run(SerialPortProviderWindows.java:124)
+2026-09-16 17:10:42,316 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+2026-09-16 17:10:42,316 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.util.TimerThread.run(Timer.java:506)
+2026-09-16 17:10:42,317 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] java.lang.OutOfMemoryError: Java heap space
+2026-09-16 17:10:42,319 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.metadata.expression.MemberProvider.create(MemberProvider.java:139)
+2026-09-16 17:10:42,319 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.metadata.expression.Matches.match(Matches.java:64)
+2026-09-16 17:10:42,320 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.metadata.expression.Matches.evaluate(Matches.java:40)
+2026-09-16 17:10:42,321 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.metadata.expression.And.evaluate(And.java:30)
+2026-09-16 17:10:42,322 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.metadata.expression.Unary.evaluate(Unary.java:49)
+2026-09-16 17:10:42,322 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.metadata.expression.Exists.evaluate(Exists.java:33)
+2026-09-16 17:10:42,323 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.metadata.expression.CollectionFilter.evaluate(CollectionFilter.java:65)
+2026-09-16 17:10:42,324 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.metadata.expression.MatchExpression.evaluate(MatchExpression.java:51)
+2026-09-16 17:10:42,325 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.p2.query.ExpressionMatchQuery.isMatch(ExpressionMatchQuery.java:103)
+2026-09-16 17:10:42,326 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.p2.query.ExpressionMatchQuery.perform(ExpressionMatchQuery.java:89)
+2026-09-16 17:10:42,327 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.p2.query.ExpressionMatchQuery.perform(ExpressionMatchQuery.java:78)
+2026-09-16 17:10:42,327 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.metadata.index.IndexProvider.query(IndexProvider.java:26)
+2026-09-16 17:10:42,328 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.metadata.index.IndexProvider.query(IndexProvider.java:36)
+2026-09-16 17:10:42,329 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.director.Projector.getApplicableMatches(Projector.java:809)
+2026-09-16 17:10:42,330 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.director.Projector.expandRequirement(Projector.java:385)
+2026-09-16 17:10:42,331 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.director.Projector.expandRequirements(Projector.java:460)
+2026-09-16 17:10:42,331 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.director.Projector.processIU(Projector.java:481)
+2026-09-16 17:10:42,332 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.director.Projector.encode(Projector.java:242)
+2026-09-16 17:10:42,333 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.director.SimplePlanner.getSolutionFor(SimplePlanner.java:454)
+2026-09-16 17:10:42,334 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.director.SimplePlanner.getProvisioningPlan(SimplePlanner.java:517)
+2026-09-16 17:10:42,335 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.operations.PlannerResolutionJob.runModal(PlannerResolutionJob.java:80)
+2026-09-16 17:10:42,336 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.operations.SearchForUpdatesResolutionJob.runModal(SearchForUpdatesResolutionJob.java:50)
+2026-09-16 17:10:42,337 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.p2.operations.ProfileChangeOperation.resolveModal(ProfileChangeOperation.java:118)
+2026-09-16 17:10:42,338 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater.updatesAvailable(AutomaticUpdater.java:112)
+2026-09-16 17:10:42,339 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater.updatesAvailable(AutomaticUpdater.java:91)
+2026-09-16 17:10:42,339 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdateScheduler$1.updatesAvailable(AutomaticUpdateScheduler.java:133)
+2026-09-16 17:10:42,339 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:83)

@@ -1,0 +1,93 @@
+!SESSION 2026-09-16 16:32:01.148 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=vi_VN
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\lab1ex2 -build all
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\lab1ex2 -build all -data C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\.metadata_headless
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-16 16:32:10.644
+!MESSAGE Indexed 'lab1ex2' (19 sources, 97 headers) in 3,09 sec: 6.748 declarations; 20.443 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0,69%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-16 16:32:12.807
+!MESSAGE Indexed 'lab1ex2' (19 sources, 97 headers) in 1,28 sec: 6.748 declarations; 20.443 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0,69%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-16 16:32:15.494
+!MESSAGE Indexed 'lab1ex2' (19 sources, 97 headers) in 0,898 sec: 6.748 declarations; 20.443 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0,69%)
+!SESSION 2026-09-16 16:34:41.262 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=vi_VN
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\lab1ex2 -build all
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\lab1ex2 -build all -data C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\.metadata_headless
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-16 16:34:45.643
+!MESSAGE Indexed 'lab1ex2' (19 sources, 43 headers) in 1,69 sec: 4.788 declarations; 13.051 references; 28 unresolved inclusions; 267 syntax errors; 4.456 unresolved names (20%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-16 16:34:48.899
+!MESSAGE Indexed 'lab1ex2' (19 sources, 43 headers) in 0,995 sec: 4.788 declarations; 13.051 references; 28 unresolved inclusions; 267 syntax errors; 4.456 unresolved names (20%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-16 16:34:52.310
+!MESSAGE Indexed 'lab1ex2' (19 sources, 43 headers) in 0,919 sec: 4.788 declarations; 13.051 references; 28 unresolved inclusions; 267 syntax errors; 4.456 unresolved names (20%)
+!SESSION 2026-09-16 16:36:38.807 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=vi_VN
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\lab1ex2 -build all
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\lab1ex2 -build all -data C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\.metadata_headless
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-16 16:36:48.187
+!MESSAGE Indexed 'lab1ex2' (19 sources, 43 headers) in 1,38 sec: 4.788 declarations; 13.051 references; 28 unresolved inclusions; 267 syntax errors; 4.456 unresolved names (20%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-16 16:36:50.675
+!MESSAGE Indexed 'lab1ex2' (19 sources, 43 headers) in 0,923 sec: 4.788 declarations; 13.051 references; 28 unresolved inclusions; 267 syntax errors; 4.456 unresolved names (20%)
+!SESSION 2026-09-16 16:39:20.425 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=vi_VN
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\lab1ex2 -cleanBuild all
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\lab1ex2 -cleanBuild all -data C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\.metadata_headless
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-16 16:39:28.727
+!MESSAGE Indexed 'lab1ex2' (19 sources, 43 headers) in 1,42 sec: 4.788 declarations; 13.051 references; 28 unresolved inclusions; 267 syntax errors; 4.456 unresolved names (20%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-16 16:39:31.797
+!MESSAGE Indexed 'lab1ex2' (19 sources, 43 headers) in 1,04 sec: 4.788 declarations; 13.051 references; 28 unresolved inclusions; 267 syntax errors; 4.456 unresolved names (20%)
+!SESSION 2026-09-16 16:40:40.237 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=vi_VN
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\lab1ex2 -build all
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\lab1ex2 -build all -data C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\.metadata_headless
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-16 16:40:48.723
+!MESSAGE Indexed 'lab1ex2' (19 sources, 43 headers) in 1,23 sec: 4.788 declarations; 13.051 references; 28 unresolved inclusions; 267 syntax errors; 4.456 unresolved names (20%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-16 16:40:50.528
+!MESSAGE Indexed 'lab1ex2' (19 sources, 43 headers) in 0,951 sec: 4.788 declarations; 13.051 references; 28 unresolved inclusions; 267 syntax errors; 4.456 unresolved names (20%)
+!SESSION 2026-09-16 16:45:31.444 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=vi_VN
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\lab1ex1 -build all
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\lab1ex1 -build all -data C:\Users\Lenovo\Desktop\THANH HAI\HK261\Vi điều khiển\VXL_Lab_1\.metadata_headless
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-16 16:45:36.745
+!MESSAGE Indexed 'Led_Animations' (19 sources, 43 headers) in 1,83 sec: 4.786 declarations; 12.928 references; 28 unresolved inclusions; 267 syntax errors; 4.451 unresolved names (20%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-16 16:45:39.629
+!MESSAGE Indexed 'Led_Animations' (19 sources, 43 headers) in 1,39 sec: 4.786 declarations; 12.928 references; 28 unresolved inclusions; 267 syntax errors; 4.451 unresolved names (20%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-16 16:45:42.494
+!MESSAGE Indexed 'Led_Animations' (19 sources, 43 headers) in 1,26 sec: 4.786 declarations; 12.928 references; 28 unresolved inclusions; 267 syntax errors; 4.451 unresolved names (20%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-16 16:45:43.731
+!MESSAGE Indexed 'lab1ex2' (19 sources, 43 headers) in 1,2 sec: 4.788 declarations; 13.051 references; 28 unresolved inclusions; 267 syntax errors; 4.456 unresolved names (20%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-16 16:45:45.913
+!MESSAGE Indexed 'lab1ex2' (19 sources, 43 headers) in 1,04 sec: 4.788 declarations; 13.051 references; 28 unresolved inclusions; 267 syntax errors; 4.456 unresolved names (20%)

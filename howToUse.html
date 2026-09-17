@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hướng Dẫn Build STM32 Project Trên VS Code</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h1, h2, h3 {
+            color: #0056b3;
+        }
+        .container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .error-box {
+            background-color: #ffeaea;
+            border-left: 4px solid #ff4c4c;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        .success-box {
+            background-color: #e6ffed;
+            border-left: 4px solid #28a745;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        code {
+            background-color: #eee;
+            padding: 2px 5px;
+            border-radius: 3px;
+            font-family: Consolas, monospace;
+        }
+        pre {
+            background-color: #272822;
+            color: #f8f8f2;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        .step {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hướng Dẫn Build STM32 Bằng VS Code</h1>
+        
+        <h2>1. Cách Build Project</h2>
+        <div class="step">
+            <p>Tôi đã thiết lập hệ thống tự động gọi trình biên dịch của <strong>STM32CubeIDE 1.7.0</strong> ngay bên trong IDE này. Để build, bạn chỉ cần:</p>
+            <ul>
+                <li>Nhấn tổ hợp phím <strong><code>Ctrl + Shift + B</code></strong> (hoặc mở Command Palette và gõ <i>Run Build Task</i>).</li>
+                <li>Một danh sách các project (lab1ex1, lab1ex2...) sẽ hiện ra. Bạn chọn project muốn build.</li>
+                <li>Kết quả build (file <code>.hex</code>, <code>.elf</code>) sẽ nằm trong thư mục <code>Debug/</code> của từng project, sẵn sàng để bạn nạp vào Proteus.</li>
+            </ul>
+        </div>
+
+        <h2>2. Nguyên Nhân Gây Lỗi Trước Đó</h2>
+        <div class="error-box">
+            <strong>Lỗi đã gặp:</strong> <code>ld.exe: cannot open linker script file ... Vi ??i???u khi???n ... STM32F103C6UX_FLASH.ld: No such file or directory</code>
+        </div>
+        <p>
+            <strong>Giải thích:</strong> Workspace của bạn nằm trong đường dẫn có chứa dấu tiếng Việt (<code>Vi điều khiển</code>). 
+            Trình biên dịch GCC cũ (version 9) đi kèm với <strong>STM32CubeIDE 1.7.0</strong> gặp lỗi giải mã ký tự Unicode khi được gọi chạy ngầm (headless build) từ PowerShell. 
+            Do đó, đường dẫn tuyệt đối bị biến dạng thành <code>Vi ??i???u khi???n</code>, khiến trình liên kết (Linker) không tìm thấy file cấu hình bộ nhớ <code>.ld</code>.
+        </p>
+
+        <h2>3. Cách Tôi Đã Khắc Phục</h2>
+        <div class="success-box">
+            <p>Tôi đã sửa file cấu hình <code>.cproject</code> của tất cả các lab. Thay vì dùng đường dẫn tuyệt đối (chứa thư mục "Vi điều khiển"), tôi chuyển thành <strong>đường dẫn tương đối</strong>: <code>../STM32F103C6UX_FLASH.ld</code></p>
+        </div>
+        <p>Vì đường dẫn tương đối không bao gồm tên thư mục gốc, trình biên dịch GCC có thể đọc được file bình thường mà không bị lỗi font chữ.</p>
+
+        <h2>4. Lưu Ý Khi Tạo Project Mới (Quan Trọng)</h2>
+        <p>Nếu sau này bạn tạo thêm một bài Lab mới (ví dụ <code>lab1ex5</code>) bằng STM32CubeIDE 1.7.0, bạn sẽ lại gặp lỗi tương tự nếu build bằng VS Code. Để khắc phục triệt để cho project mới, hãy làm 1 trong 2 cách sau:</p>
+        
+        <h3>Cách 1: Đổi trực tiếp trên giao diện STM32CubeIDE (Dễ nhất)</h3>
+        <ol>
+            <li>Mở project bằng STM32CubeIDE.</li>
+            <li>Nhấp chuột phải vào tên Project -> Chọn <strong>Properties</strong>.</li>
+            <li>Mở <strong>C/C++ Build</strong> -> <strong>Settings</strong> -> tab <strong>Tool Settings</strong>.</li>
+            <li>Chọn mục <strong>MCU GCC Linker</strong> -> <strong>General</strong>.</li>
+            <li>Ở ô <strong>Linker Script (-T)</strong>, xóa <code>${workspace_loc:/${ProjName}/STM32F103C6UX_FLASH.ld}</code> và sửa thành:
+                <br><code>../STM32F103C6UX_FLASH.ld</code>
+            </li>
+            <li>Nhấn Apply and Close.</li>
+        </ol>
+
+        <h3>Cách 2: Đặt workspace ở thư mục không dấu</h3>
+        <p>
+            Cách tốt nhất để lập trình C/C++ là bạn nên di chuyển toàn bộ thư mục <code>THANH HAI\HK261\Vi điều khiển\VXL_Lab_1</code> 
+            sang một đường dẫn <strong>hoàn toàn không có dấu và không có khoảng trắng</strong>. Ví dụ: <code>C:\Projects\VXL_Lab_1</code>. Điều này sẽ giúp bạn tránh được 99% các lỗi liên quan đến trình biên dịch sau này.
+        </p>
+
+    </div>
+</body>
+</html>
