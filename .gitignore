@@ -1,0 +1,13 @@
+.vscode/
+.metadata/
+.metadata_headless/
+.settings/
+.cproject
+.mxproject
+.project
+Debug/
+Release/
+*.launch
+Thumbs.db
+123/
+howToUse.html
